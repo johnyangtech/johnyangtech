@@ -10,6 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/johnyangtech/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/johnyangtech/azure-network-protocols)
   - [Creating an Azure Account ➔ Establishing a Virtual Machine](https://github.com/johnyangtech/azure-start)
+  - [Understanding DNS in Azure](https://github.com/johnyangtech/intuition-dns)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
