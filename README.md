@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com/john.keej.yaj
 [linkedin]: https://linkedin.com/in/john-yang-827529267
