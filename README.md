@@ -14,7 +14,6 @@
   - [Understanding File Permissions in Azure](https://github.com/johnyangtech/file-permissions)
 <h2>🤳Connect with me:</h2>
 
-<h3> My CodeWar Kumites:</h3>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -23,3 +22,15 @@
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/john.keej.yaj
 [linkedin]: https://linkedin.com/in/john-yang-827529267
+
+
+
+
+
+
+
+
+![dogcode](https://github.com/johnyangtech/johnyangtech/assets/142265594/24e8a9b6-943c-463b-beef-ac7cf4cccd9f)
+
+<h3> My CodeWar Kumites:</h3>
+- <b>Learning Python with Network Chuck</b>
