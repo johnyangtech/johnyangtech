@@ -14,6 +14,13 @@
   - [Creating an Azure Account ➔ Establishing a Virtual Machine](https://github.com/johnyangtech/azure-start)
   - [Understanding DNS in Azure](https://github.com/johnyangtech/intuition-dns)
   - [Understanding File Permissions in Azure](https://github.com/johnyangtech/file-permissions)
+
+<h2>My <a href="https://www.codewars.com/users/johnyangtech/published_kumite/">CodeWar Kumites:</h2>
+- <b>Learning Python with Network Chuck</b>
+
+
+
+
 <h2>🤳Connect with me:</h2>
 
 
@@ -32,6 +39,3 @@
 
 
 
-
-<h2>My <a href="https://www.codewars.com/users/johnyangtech/published_kumite/">CodeWar Kumites:</h2>
-- <b>Learning Python with Network Chuck</b>
