@@ -32,5 +32,5 @@
 
 ![dogcode](https://github.com/johnyangtech/johnyangtech/assets/142265594/24e8a9b6-943c-463b-beef-ac7cf4cccd9f)
 
-<h3> My CodeWar Kumites:</h3>
+<h3> My <a href="https://www.codewars.com/users/johnyangtech/">CodeWar Kumites:</h3>
 - <b>Learning Python with Network Chuck</b>
