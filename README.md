@@ -15,8 +15,8 @@
   - [Understanding DNS in Azure](https://github.com/johnyangtech/intuition-dns)
   - [Understanding File Permissions in Azure](https://github.com/johnyangtech/file-permissions)
 
-<h2>My <a href="https://www.codewars.com/users/johnyangtech/published_kumite/">CodeWar Kumites:</h2>
-- <b>Learning Python with Network Chuck</b>
+<h2>My CodeWar Kumites:</h2>
+- <b> <a href="https://www.codewars.com/users/johnyangtech/published_kumite/">Learning Python with Network Chuck</b>
 
 
 
