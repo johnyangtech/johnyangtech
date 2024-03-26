@@ -1,4 +1,5 @@
 <h1>Hi, I'm John, an <a href="https://www.linkedin.com/in/john-yang-827529267/">IT Professional</a>☺</h1>
+
 ![dogcode](https://github.com/johnyangtech/johnyangtech/assets/142265594/24e8a9b6-943c-463b-beef-ac7cf4cccd9f)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
