@@ -33,5 +33,5 @@
 
 
 
-<h3> My <a href="https://www.codewars.com/users/johnyangtech/published_kumite/">CodeWar Kumites:</h3>
+<h2>My <a href="https://www.codewars.com/users/johnyangtech/published_kumite/">CodeWar Kumites:</h2>
 - <b>Learning Python with Network Chuck</b>
